@@ -1,2 +1,1 @@
-# haha
-## hahaha
+# DAISY-GL wearable LED Outfit
